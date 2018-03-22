@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/TaherHo/videoTube#readme",
   "dependencies": {
+    "bootstrap": "^4.0.0",
+    "pp_react_components": "^1.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
+    "reactstrap": "^5.0.0-beta.3",
     "webpack": "^3.10.0",
     "webpack-dev-server": "^2.9.7"
   },
@@ -35,7 +38,10 @@
     "css-loader": "^0.28.7",
     "less": "^2.7.3",
     "less-loader": "^4.0.5",
-    "style-loader": "^0.19.1"
+    "node-sass": "^4.7.2",
+    "sass-loader": "^6.0.7",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.11.0"
   },
   "babel": {
     "presets": [
